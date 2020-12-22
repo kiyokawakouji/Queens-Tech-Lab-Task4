@@ -1,6 +1,8 @@
 # queens_tech_lab_task4
 
-A new Flutter application.
+4,リストデータの取り扱い
+　modelファイル、リストデータ作成。
+ リストデータを画面に表示。(JSON使う)
 
 ## Getting Started
 
